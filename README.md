@@ -13,7 +13,7 @@
 - 🤔 Procuro ajuda em cursos rápidos, vídeos tutoriais, apostilas e livros.
 - ⚽ Pratico esportes: futebol, caminhada e corrida.
 - 🌳 Gosto de estar em contato com a natureza.
-- 🎵 Meu hobby é ouvir música, ler livros, andar de bicicleta 🚲, pilotar moto 🏍️ e estar na companhia de boas amizades.
+- 🎵 Meu hobby é ouvir música, ler livros, praticar musculação, andar de bicicleta 🚲, pilotar moto 🏍️ e estar na companhia de boas amizades.
 - 📫 Como entrar em contato comigo: rommelmjr@gmail.com
 - 😄 Pronomes: Ele/Dele
 
