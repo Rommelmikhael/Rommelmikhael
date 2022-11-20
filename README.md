@@ -18,11 +18,10 @@
 - 😄 Pronomes: Ele/Dele
 
 ##
-
  ### Ferramentas e Tecnologias:
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rommel Mikhael-Canva" height="40" width="40" src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/layout-login-doceria-de-ouro2.png?raw=true" />
+  <img align="center" alt="Rommel Mikhael-Canva" height="40" width="40" src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/canva-original.svg" />
   
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_pagamento.png?raw=true" width="100" height="100" align="right">
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true" width="100" height="100" align="right">        
