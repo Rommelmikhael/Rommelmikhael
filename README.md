@@ -51,11 +51,10 @@
 
 ##
 
-### Doceria de Ouro - empresa fictícia <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/grafico.jpg" width="100" height="100" align="right">
+### Boleria de Ouro - empresa fictícia <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/grafico.jpg" width="100" height="100" align="right">
 
------------------------------------------------------------------
+[![Vídeo](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true)](https://youtube.com/shorts/Btj0q_M2y2U)
 
-  ![Vídeo](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/Doce_de_Ouro2.mp4)
 
 ##
 
