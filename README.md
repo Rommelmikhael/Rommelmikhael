@@ -16,3 +16,47 @@
 - 🌳 Gosto de estar em contato com a natureza.
 - 🎵 Meu hobby é ouvir música, ler livros, praticar musculação, andar de bicicleta 🚲, pilotar moto 🏍️ e estar na companhia de boas amizades.
 - 😄 Pronomes: Ele/Dele
+
+##
+
+ ### Ferramentas e Tecnologias:
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rommel Mikhael-Canva" height="40" width="40" src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/canva-original.svg" />
+  
+  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_pagamento.png?raw=true" width="100" height="100" align="right">
+  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true" width="100" height="100" align="right">        
+  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/layout-login-doceria-de-ouro.png?raw=true" width="100" height="100" align="right">
+  </div>
+
+##
+  
+### Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/rommel-mikhael-541702176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+##
+
+  ![Snake animation](https://github.com/Rommelmikhael/Rommelmikhael/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+### Spotify - músicas aleatórias
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO?si=b98b00ef5e7740e3)
+<br/>
+---
+
+### Vídeo extensão .mp4 - empresa fictícia
+-----------------------------------------------------------------
+
+![Vídeo](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/video.mp4)
+
+##
+
+![Frase Motivacional](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/motivacional.png)
+
+##
