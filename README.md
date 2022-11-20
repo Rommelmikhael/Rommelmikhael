@@ -38,10 +38,6 @@
 <a href="https://www.linkedin.com/in/rommel-mikhael-541702176" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Spotify - músicas aleatórias
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO?si=b98b00ef5e7740e3)
-
 ##
 
 ### Boleria Doce de Ouro 
@@ -53,6 +49,11 @@ Click na imagem, abaixo, para abrir o short e boas compras!
 
 [![Vídeo](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true)](https://youtube.com/shorts/Btj0q_M2y2U)
 
+##
+
+### Spotify - músicas aleatórias
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO?si=b98b00ef5e7740e3)
 
 ##
 
