@@ -27,10 +27,12 @@
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_pagamento.png?raw=true" width="100" height="100" align="right">
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true" width="100" height="100" align="right">        
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/222.png?raw=true" width="100" height="100" align="right">
+  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/logo_Boleria_doce_de_ouro.png?raw=true" width="100" height="100" align="right">
+
   </div>
 
 ##
-  
+
 ### Contatos:
 
 <div>
@@ -39,7 +41,7 @@
 
 ##
 
-### Boleria Doce de Ouro 
+### Boleria Doce de Ouro  
 Projeto em grupo de uma "empresa fictícia" para vendas de bolo online para agregar na nota do terceiro semestre da Faculdade Anhanguera do Taboão da Serra. 
 <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/grafico.jpg" width="100" height="100" align="right">
 Click na imagem, abaixo, para abrir o short e boas compras!
@@ -56,6 +58,7 @@ Click na imagem, abaixo, para abrir o short e boas compras!
 
 ##
 
-  ![Frase Motivacional](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/palmeira.jpg?raw=true)
+![Frase Motivacional](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/palmeira.jpg?raw=true)
+A natureza é linda!
 
 ##
