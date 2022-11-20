@@ -18,7 +18,7 @@
 
 ##
 
- ### Ferramentas e Tecnologias:
+### Ferramentas e Tecnologias:
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rommel Mikhael-Canva" height="40" width="40" src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/canva-original.svg" />
@@ -26,12 +26,12 @@
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_pagamento.png?raw=true" width="100" height="100" align="right">
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true" width="100" height="100" align="right">        
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/222.png?raw=true" width="100" height="100" align="right">
-  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/logo_Boleria_doce_de_ouro.png?raw=true" width="40" height="88" align="right">
+  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/logo_Boleria_doce_de_ouro.png?raw=true" width="40" height="86" align="right">
 
   </div>
   
-##
-
+  ##
+  
 ### Contatos:
 
 <div>
@@ -59,6 +59,10 @@ Click na imagem, abaixo, para abrir o short e boas compras!
 ##
 
 ![Frase Motivacional](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/palmeira.jpg?raw=true)
-A natureza é linda!
+
+Dictyosperma album, a Palmeira é ainda mais destemida, aturando os ciclones tropicais que varrem o Caribe e as Ilhas Maurício, onde a temperatura atinge 50°C no verão, com uma velocidade que chega aos 250 km por hora. Esta palmeira se adaptou de tal maneira que deixa cair suas folhas quando experimenta ventos muito fortes e no instante em que a tempestade se intensifica, encontra um tronco solitário que balança sem ser derrubado nem ferido. Passado esse furacão ela solta novas folhas, que a coroam alegremente.
+
+Coisas da natureza…
+Fonte: http://www.jardimcor.com/catalogo-de-especies/palmeiras/por-que-as-palmeiras-nao-tombam/comment-page-1/
 
 ##
