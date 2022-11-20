@@ -1,6 +1,5 @@
 
-
-## Olá! Eu sou o Rommel Mikhael.  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/RM-6.png?raw=true" width="100" height="100" align="right">
+## Olá! Eu sou o Rommel Mikhael.  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/Romminho.jpg?raw=true" width="100" height="200" align="right">
 
 ### Bem vindo ao meu perfil GitHub!👋
 
@@ -57,7 +56,6 @@ Click na imagem, abaixo, para abrir o short e boas compras!
 
 ##
 
-  ![Frase Motivacional](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/motivacional.png)
+  ![Frase Motivacional](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/palmeira.jpg?raw=true)
 
 ##
-
