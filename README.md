@@ -69,6 +69,6 @@ Fonte: http://www.jardimcor.com/catalogo-de-especies/palmeiras/por-que-as-palmei
 
 ##
 
-<img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/Banner.png?raw=true" align="center">
+<img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/banner-RM-linkedin2.png?raw=true" align="center">
 
 ##
