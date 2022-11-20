@@ -1,8 +1,7 @@
 
-## Olá! Eu sou o Rommel Mikhael.  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/Romminho.jpg?raw=true" width="100" height="200" align="right">
+## Olá! Eu sou o Rommel Mikhael.  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/Romminho.jpg?raw=true" width="120" height="140" align="right">
 
 ### Bem vindo ao meu perfil GitHub!👋
-
 
 - 📚 Preparo-me para a minha primeira Certificação da Anbima, CPA-10. ✨
 - 🏦 Estudo administração na Faculdade Anhanguera de Taboão da Serra.
@@ -27,10 +26,10 @@
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_pagamento.png?raw=true" width="100" height="100" align="right">
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true" width="100" height="100" align="right">        
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/222.png?raw=true" width="100" height="100" align="right">
-  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/logo_Boleria_doce_de_ouro.png?raw=true" width="100" height="100" align="right">
+  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/logo_Boleria_doce_de_ouro.png?raw=true" width="40" height="88" align="right">
 
   </div>
-
+  
 ##
 
 ### Contatos:
@@ -41,9 +40,10 @@
 
 ##
 
-### Boleria Doce de Ouro  
-Projeto em grupo de uma "empresa fictícia" para vendas de bolo online para agregar na nota do terceiro semestre da Faculdade Anhanguera do Taboão da Serra. 
-<img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/grafico.jpg" width="100" height="100" align="right">
+### Boleria Doce de Ouro 
+Projeto em grupo de uma "empresa fictícia" para vendas de bolo online para agregar na nota do terceiro <br> semestre da Faculdade Anhanguera do Taboão da Serra.
+<img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/grafico.jpg" width="180" height="180" align="right">
+
 Click na imagem, abaixo, para abrir o short e boas compras!
 
 ##
