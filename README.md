@@ -62,9 +62,11 @@ A  Palmeira
 
 ![Frase Motivacional](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/palmeira.jpg?raw=true)
 
-Dictyosperma album, a Palmeira é ainda mais destemida, aturando os ciclones tropicais que varrem o Caribe e as Ilhas Maurício, onde a temperatura atinge 50°C no verão, com uma velocidade que chega aos 250 km por hora. Esta palmeira se adaptou de tal maneira que deixa cair suas folhas quando experimenta ventos muito fortes e no instante em que a tempestade se intensifica, encontra um tronco solitário que balança sem ser derrubado nem ferido. Passado esse furacão ela solta novas folhas, que a coroam alegremente.
+      Dictyosperma album, a Palmeira é ainda mais destemida, aturando os ciclones tropicais que varrem o Caribe e as Ilhas Maurício, onde a temperatura atinge 50°C no verão, com uma velocidade que chega aos 250 km por hora. Esta palmeira se adaptou de tal maneira que deixa cair suas folhas quando experimenta ventos muito fortes e no instante em que a tempestade se intensifica, encontra um tronco solitário que balança sem ser derrubado nem ferido. Passado esse furacão ela solta novas folhas, que a coroam alegremente.  
 
 Coisas da natureza…
 Fonte: http://www.jardimcor.com/catalogo-de-especies/palmeiras/por-que-as-palmeiras-nao-tombam/comment-page-1/
+
+##
 
 ##
