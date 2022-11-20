@@ -6,8 +6,8 @@
 
 - 📚 Preparo-me para a minha primeira Certificação da Anbima, CPA-10. ✨
 - 🏦 Estudo administração na Faculdade Anhanguera de Taboão da Serra.
-- 🍰 Criação de um aplicativo para a empresa fictícia, Doceria de Ouro. Desenvolvo o layout do login na ferramenta Canvas.
-- 💡 Contribui com a minha equipe do projeto, colaborando com o desenvolvendo do layout da Doceria de Ouro com o Canvas.
+- 🍰 Criação de um aplicativo para a empresa fictícia, Doceria de Ouro. Desenvolvo o layout do login na ferramenta Canva.
+- 💡 Contribui com a minha equipe do projeto, colaborando com o desenvolvendo do layout da Doceria de Ouro com o Canva.
 - 🔭 Estagiei no Ministério da Saúde em São Paulo.
 - 📚 Curso na Escola de Negócios e Seguro - ENS, concluído.
 - 🚗 Concluí o curso eletricista de automóveis no Senai Conde José Vicente de Azevedo - SP.
