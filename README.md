@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Rommel Mikhael.  <img src="https://github.com/.gif" width="100" height="100" align="right">
+## Olá! Eu sou o Rommel Mikhael.  <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/RM-6.png?raw=true" width="100" height="100" align="right">
 
 ### Bem vindo ao meu perfil GitHub!👋
 
@@ -22,13 +22,13 @@
  ### Ferramentas e Tecnologias:
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rommel Mikhael-Canva" height="40" width="40" src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/canva-original.svg" />
+  <img align="center" alt="Rommel Mikhael-Canva" height="40" width="40" src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/layout-login-doceria-de-ouro2.png?raw=true" />
   
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_pagamento.png?raw=true" width="100" height="100" align="right">
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/pagina_produtos.png?raw=true" width="100" height="100" align="right">        
   <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/layout-login-doceria-de-ouro2.png?raw=true" width="100" height="100" align="right">
   </div>
-  
+
 ##
   
 ### Contatos:
@@ -47,13 +47,14 @@
 ### Spotify - músicas aleatórias
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO?si=b98b00ef5e7740e3)
-<br/>
----
 
-### Vídeo extensão .mp4 - empresa fictícia
+##
+
+### Doceria de Ouro - empresa fictícia <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/grafico.jpg" width="100" height="100" align="right">
+
 -----------------------------------------------------------------
 
-![Vídeo](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/video.mp4)
+![Vídeo](https://github.com/Rommelmikhael/Rommelmikhael/blob/main/Doce%20de%20Ouro%202.mp4)
 
 ##
 
