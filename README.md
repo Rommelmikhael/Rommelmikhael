@@ -44,7 +44,7 @@
 Projeto em grupo de uma "empresa fictícia" para vendas de bolo online para agregar na nota do terceiro <br> semestre da Faculdade Anhanguera do Taboão da Serra.
 <img src="https://github.com/Rommelmikhael/Rommelmikhael/blob/main/grafico.jpg" width="180" height="180" align="right">
 
-Click na imagem, abaixo, para abrir o short e boas compras!
+Click na imagem, abaixo, para abrir o short.
 
 ##
 
